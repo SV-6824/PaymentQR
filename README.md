@@ -1,6 +1,7 @@
 # PaymentQR
 Hi, I am Shikhar Vaish.
-It is my small initial project of python for my class assisment. I made this project when I just started learning Python as my first and small project pretty basic but efficient.
+It is my small initial project of python for my class assisment. I made this project when I just started learning Python.
+It is my first and small project which is pretty basic but efficient.
 
 In this project, it will generate a QR code which can accept the payment displaying the name of the recipient and the amount which you want to receive from the sender.
 
